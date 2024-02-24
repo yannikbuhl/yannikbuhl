@@ -1,5 +1,5 @@
 # 💫 About Me
-I am a researcher into new digital data in Official Statistics and a data analyst. I am interested in R package development, contributing to existing R software and learning new programming languages such as Rust. I really enjoy writing stuff in Bash and getting myself involved in Linux. Also, I am interested in cybersecurity. By training, I am a Political Scientist (University of Mannheim) with a special focus on quantitative methods.
+I am a researcher into new digital data in Official Statistics and a data analyst. I am interested in R package development, contributing to existing R software and learning new programming languages such as Rust. I really enjoy writing stuff in Bash and getting myself involved in Linux. Also, I am interested in cybersecurity. By training, I am a Political Scientist (University of Mannheim) with a special focus on quantitative methods. More info can be found [here](https://yannikbuhl.de).
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yabuhl) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yannik-buhl-a29034156) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/YBuhl) 
