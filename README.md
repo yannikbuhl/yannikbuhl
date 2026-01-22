@@ -10,6 +10,10 @@ I am a Senior Data Scientist with focus on (official) health statistics. Before,
 - [*{pocketapi}*](https://github.com/CorrelAid/pocketapi) 
 - [Gists](https://gist.github.com/yannikbuhl)
 
+## Publications
+- [Passantenzahlen als möglicher Frühindikator für die Konjunktur von Einzelhandel und Gastgewerbe, WISTA - Wirtschaft und Statistik, 5/2025.](https://www.destatis.de/DE/Methoden/WISTA-Wirtschaft-und-Statistik/2025/05/passantenzahlen-als-moeglicher-fruehindikator-052025.pdf?__blob=publicationFile&v=2)
+- [„VerBindungen“ – Verkehrs- und Berufspendlerrelationen nach Start- und Zielorten, deren Erreichbarkeit und Aufenthaltsbevölkerung – Neue Datenzugänge auf Grundlage von Befragungs-, Verwaltungs- und nicht-traditioneller Daten. Herausgeber: Bundesministerium für Digitales und Verkehr. Wiesbaden, 2024.](https://www.bmv.de/SharedDocs/DE/Anlage/G/abschlussbericht-forschungsprojekt-verbindungen.pdf?__blob=publicationFile)
+
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yabuhl) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yannik-buhl-a29034156) [![Bluesky](https://img.shields.io/badge/-Bluesky-3686f7?style=flat&logo=icloud&logoColor=white)](https://bsky.app/profile/ybuhl.bsky.social) 
 
