@@ -1,5 +1,5 @@
 # 💫 About Me
-I am a Senior Data Scientist with focus on (official) health statistics. Before, I worked as a researcher into new data sources in official statistics. I am interested in R package development, contributing to existing R software and learning new programming languages such as Rust. I really enjoy writing stuff in Bash and getting myself involved into Linux. Also, I am a tad interested in cybersecurity. By training, I am a Political Scientist (University of Mannheim) with a special focus on quantitative methods. 
+I am a Senior Data Scientist working in (official) health statistics. Before, I worked as a researcher into new data sources in official statistics. I am interested in R package development, contributing to existing R software and learning new programming languages such as Rust. I really enjoy writing stuff in Bash and getting myself involved into Linux. Also, I am a tad interested in cybersecurity. By training, I am a Political Scientist (University of Mannheim) with a special focus on quantitative methods. 
 
 ## ⌨️ Open Source Contributions
 
